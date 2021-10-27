@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(55, 163, 213);
+    color:white;
+    padding: 10px;
+    margin: 50px;
+    background-image:url(background.png);
+   
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center center;
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    /* Full height */
+  
+}
+
+p{
+    margin-bottom: 50px;
+}
+
+button{
+    border-radius: 25px;
+  border: 2px solid white;
+  padding: 20px; 
+  width: 200px;
+  height: 150px; 
+    
+}
+
+.space{
+    margin: 10px;
+}
+
+#Message{
+    width:500px;
+    height:100px;
+}
+
+
+
